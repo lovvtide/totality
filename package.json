@@ -1,0 +1,15 @@
+{
+	"name": "totality",
+	"type": "module",
+	"version": "0.0.1",
+	"description": "Algorithm for computing the relative credibility of nodes in a web of trust",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"nostr"
+	],
+	"author": "Stuart Bowman",
+	"license": "MIT"
+}
